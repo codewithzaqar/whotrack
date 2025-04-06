@@ -22,6 +22,8 @@ $ pip install -r requirements.txt
 ## Usage
 Just run ```python whotrack.py```
 
+All of the accounts found will be stored in a text file with their username (e.g ```user123.txt```)
+
 
 ## License
 MIT License
