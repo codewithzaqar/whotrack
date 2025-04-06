@@ -1,2 +1,2 @@
-# whotrack
-Find usernames across over 75 social networks
+# Whotrack
+> Find usernames across over 75 social networks
