@@ -37,7 +37,7 @@ def main():
     
     print()
 
-    fname = username+".txt"
+    fname = username + ".txt"
 
     if os.path.isfile(fname):
         os.remove(fname)
@@ -92,5 +92,6 @@ def main():
                 print("\033[37;1m[\033[91;1m-\033[37;1m]\033[92;1m {}:\033[93;1m Not Found!".format(social_network))
 
     print("\033[1;92m[\033[0m\033[1;77m*\033[0m\033[1;92m] Saved: \033[37;1m{}\033[0m".format(username+".txt"))
+
 
 main()
